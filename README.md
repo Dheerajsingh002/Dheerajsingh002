@@ -1,15 +1,20 @@
 # <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GPSOer0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg">
 - 👀 I’m interested in computers and Science
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
+- 
 
 ###
+# Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Dheerajsingh002" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dheerajsingh002" height="150" alt="languages graph"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajsingh002">
 </div>
+
 
 ###
 
@@ -40,6 +45,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajsingh002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
+
+
+
+
 
 <!---
 Dheerajsingh002/Dheerajsingh002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

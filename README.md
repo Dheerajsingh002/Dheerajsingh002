@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dheeraj Singh
+# 👋 Hi, I’m Dheeraj Singh
 - 👀 I’m interested in computers and Science
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate in the field of computional Sciences

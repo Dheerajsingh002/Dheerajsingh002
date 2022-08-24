@@ -1,10 +1,9 @@
 # <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GPSOer0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg">
 - 👀 I’m interested in computers and Science
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
-- 
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GPSOer0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg"> 
 
 ###
 # Github Stats
@@ -15,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dheerajsingh002" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dheerajsingh007" height="150" alt="languages graph"  />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajsingh002">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajsingh007">
+
 
 </div>
 
@@ -33,6 +32,12 @@
  <a href="https://css3.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  /></a>
  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  /></a>
   <a href="https://www.cprogramming.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  /></a>
+<a href="https://flutter.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="c logo"  /></a>
+<a href="https://www.dart.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="c logo"  /></a>
+<a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="c logo"/></a>
+<a href="https://sass-lang.com/documentation/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="c logo"/></a>
+<a href="https://visualstudio.microsoft.com/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="c logo"  /></a>
+<a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="c logo"/></a>
 </div>
 
 ###

@@ -40,7 +40,7 @@
 <a href="https://sass-lang.com/documentation/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="c logo"/></a>
 <a href="https://visualstudio.microsoft.com/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="c logo"  /></a>
 <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="c logo"/></a>
-<a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="c logo"/></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="c logo"/></a>
 </div>
 
 ###

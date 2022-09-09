@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
+<div align="center">
+<img src="https://thumbs.gfycat.com/TestyDisloyalChinchilla-size_restricted.gif"> 
+</div>
 
 
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--GPSOer0V--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy2o6nicut63th7nn6dg.jpg"> 
 
 ###
 # Github Stats

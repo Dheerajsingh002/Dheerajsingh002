@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
 <div align="center">
-<img src="https://thumbs.gfycat.com/TestyDisloyalChinchilla-size_restricted.gif"> 
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif"> 
 </div>
 
 

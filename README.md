@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+
+
+</div>
+
 # <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
 - 👀 I’m interested in computers and Science
 - 🌱 I’m currently learning full stack development
@@ -16,7 +24,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Dheerajsingh002" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dheerajsingh002" height="150" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheerajsingh002">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=c">
 
 
 </div>
@@ -63,6 +71,15 @@
 
 # Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dheerajsingh002&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Dheerajsingh002/count.svg" />
+</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
 
 

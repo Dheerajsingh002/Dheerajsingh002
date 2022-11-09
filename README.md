@@ -17,6 +17,7 @@
 
 
 </div>
+<img src=https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default")
 
 # <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
 - 👀 I’m interested in computers and Science

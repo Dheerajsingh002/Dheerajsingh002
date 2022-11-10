@@ -20,11 +20,11 @@
 <img src=https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default")
 
 # <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
-- 👀 I’m interested in computers and Science
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate in the field of computional Sciences
-- 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
-- <div align="center">
+ 👀 I’m interested in computers and Science
+ 🌱 I’m currently learning full stack development
+ 💞️ I’m looking to collaborate in the field of computional Sciences
+ 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
+<div align="center">
   <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
    </div>
 

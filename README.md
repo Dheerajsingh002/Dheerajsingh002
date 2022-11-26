@@ -69,11 +69,17 @@
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"/></a>
   <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"/></a>
   <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="firebase logo"/></a>
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="java logo"/></a>
- 
- 
+  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="java logo"/></a> 
 </div>
 
+# IDE 
+<div>
+ <img src="https://img.shields.io/badge/-Visual%20Studio-239120?">
+ <img src="https://img.shields.io/badge/-Android%20Studio-239120?"> 
+  <img src="https://img.shields.io/badge/-Intellij-239120?">
+  <img src="https://img.shields.io/badge/-Workbench-239120?">
+  <img src="https://img.shields.io/badge/-Compass-239120?">                                                    
+</div>
 
 ###
 # See Me at:

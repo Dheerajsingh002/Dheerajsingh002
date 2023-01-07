@@ -24,7 +24,7 @@
  💞️ I’m looking to collaborate in the field of computional Sciences
  📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img hight="300" width="700" alt="GIF" align="center" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
    </div>
 
 

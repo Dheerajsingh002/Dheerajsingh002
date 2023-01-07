@@ -106,9 +106,6 @@
 
 
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=Dheerajsingh002&theme=github"/>
-</div>
 
 
 

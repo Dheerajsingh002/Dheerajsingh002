@@ -23,9 +23,7 @@
  🌱 I’m currently learning full stack development
  💞️ I’m looking to collaborate in the field of computional Sciences
  📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
-<div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
-   </div>
+
 
 
 
@@ -82,12 +80,12 @@
 
 ###
 # See Me at:
-<div align="left">
+<div align="center">
   <a href="https://www.hackerrank.com/_2B_201500219"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"/></a>
   <a href="https://www.linkedin.com/in/dheeraj-singh-8764a0222" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
   <a href="https://leetcode.com/Dheerajsingh_18/" target="blank"><img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"/></a>
 </div>
-<img hight="320" width="450"  alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+
 
 
 ###

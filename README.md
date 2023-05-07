@@ -23,6 +23,7 @@
  🌱 I’m currently learning full stack development
  💞️ I’m looking to collaborate in the field of computional Sciences
  📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
 
 
 

@@ -2,6 +2,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
+  </div>
   
 <div align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
@@ -18,11 +19,13 @@
 
 </div>
 
-- <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
+ # <h2 align="left">Hi 👋! My name is Dheeraj Singh.</h2>
 - 👀 I’m interested in computers and Science
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
+
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
 
 

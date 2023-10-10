@@ -148,6 +148,8 @@
 </p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 
+[![An image of @dheerajsingh8357's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dheerajsingh8357)](https://holopin.io/@dheerajsingh8357)
+
 
 
 

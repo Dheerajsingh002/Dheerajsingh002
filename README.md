@@ -85,9 +85,7 @@
   <img src="https://img.shields.io/badge/ASP.NET-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" title="ASP.NET">
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#">
-</a>
+
 
 <a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-6.0">
   <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC" title="ASP.NET MVC">
@@ -119,6 +117,9 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#">
+</a>
 
 ## 🛠️ **DEVOPS TOOLS**
 

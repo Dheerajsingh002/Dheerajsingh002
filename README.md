@@ -65,6 +65,34 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/">
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="LINQ" title="LINQ">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/ef/">
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" title="Entity Framework">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" title=".NET">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/web-forms/">
+  <img src="https://img.shields.io/badge/ASP.NET_Web_Forms-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Web Forms" title="ASP.NET Web Forms">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/core/">
+  <img src="https://img.shields.io/badge/ASP.NET-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" title="ASP.NET">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#">
+</a>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-6.0">
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC" title="ASP.NET MVC">
+</a>
+
 
 
 ## 📱 **MOBILE DEV**

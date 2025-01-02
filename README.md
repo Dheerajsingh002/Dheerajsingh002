@@ -14,7 +14,7 @@
 - 📫 How to reach me dheeraj.singh_cs20@gla.ac.in or my profile mail.
 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagupta0123&label=Profile%20views&color=129e00&style=plastic" alt="adityagupta0123" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dheerajsingh002&label=Profile%20views&color=129e00&style=plastic" alt="Dheerajsingh002" /> </p>
 
 
 
